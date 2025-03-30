@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalChatbot.API", "LegalChatbot.API\LegalChatbot.API.csproj", "{A4DDEEC4-CAFD-B22D-54E1-85FAA5A9E7BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "legal-chatbot-frontend", "legal-chatbot-frontend", "{B89D4559-2A0F-4EC5-B951-B8E3898A6B1C}"
+	ProjectSection(SolutionItems) = preProject
+		legal-chatbot-frontend\package.json = legal-chatbot-frontend\package.json
+		legal-chatbot-frontend\README.md = legal-chatbot-frontend\README.md
+		legal-chatbot-frontend\src\App.js = legal-chatbot-frontend\src\App.js
+		legal-chatbot-frontend\src\App.css = legal-chatbot-frontend\src\App.css
+		legal-chatbot-frontend\src\index.js = legal-chatbot-frontend\src\index.js
+		legal-chatbot-frontend\src\index.css = legal-chatbot-frontend\src\index.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4DDEEC4-CAFD-B22D-54E1-85FAA5A9E7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DDEEC4-CAFD-B22D-54E1-85FAA5A9E7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DDEEC4-CAFD-B22D-54E1-85FAA5A9E7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DDEEC4-CAFD-B22D-54E1-85FAA5A9E7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C4B780-47FD-4E6E-AB53-E1CCEF21BBCA}
+	EndGlobalSection
+EndGlobal
